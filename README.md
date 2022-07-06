@@ -1,2 +1,2 @@
 # JavaScript Coding
-This code was for a JavaScript camp.
+This code was for a JavaScript camp. 
